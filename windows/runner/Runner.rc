@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "pmp" "\0"
+            VALUE "FileDescription", "kudelia_pmp_laba_1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "pmp" "\0"
+            VALUE "InternalName", "kudelia_pmp_laba_1" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "pmp.exe" "\0"
-            VALUE "ProductName", "pmp" "\0"
+            VALUE "OriginalFilename", "kudelia_pmp_laba_1.exe" "\0"
+            VALUE "ProductName", "kudelia_pmp_laba_1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
